@@ -68,7 +68,7 @@ Currently pursuing my MS in CS at UMN Duluth to deepen theoretical foundations a
 
 ## 📫 Connect with Me
 
-- **Academic email:** `mostak@duluth.umn.edu` (preferred)  
+- **Academic email:** `ahme1320@d.umn.edu or mostak@du.ac.bd  
 - **LinkedIn:** [linkedin.com/in/mostak-ahmed](https://linkedin.com/in/mostak-ahmed)  
 - **GitHub:** [github.com/mostakphoenixsoftbd](https://github.com/mostakphoenixsoftbd)  
 
