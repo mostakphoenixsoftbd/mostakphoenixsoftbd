@@ -26,12 +26,28 @@ I am an applied AI researcher with 16+ years of experience driving large‑scale
 
 Currently pursuing my MS in CS at UMN Duluth to deepen theoretical foundations and contribute impactful research at the intersection of AI and clinical decision support.
 
-**Research interests:**
-- Clinical Decision Support Systems
-- Federated & Explainable AI in Healthcare
-- Medical Image Analysis (CT, histopathology)
-- Deep Reinforcement Learning & Graph Neural Networks
-- Anomaly Detection in large‑scale networks
+---
+
+## 🔬 Research Interests
+
+<!-- Colour‑coded badges – exactly as listed in CV -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=openai-gym&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Clinical_Decision_Support_Systems-0A66C2?style=for-the-badge&logo=healthcare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Healthcare_Predictive_Modeling-0A66C2?style=for-the-badge&logo=healthcare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk_Stratification-0A66C2?style=for-the-badge&logo=healthcare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Trustworthy_&_Explainable_AI-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-4CAF50?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Human_Robot_Interaction-4CAF50?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autonomous_Intelligent_Systems-4CAF50?style=for-the-badge&logo=automatic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-4CAF50?style=for-the-badge&logo=robot-framework&logoColor=white" />
+</p>
 
 ---
 
@@ -54,6 +70,7 @@ Currently pursuing my MS in CS at UMN Duluth to deepen theoretical foundations a
 - **Explainable Multimodal AI Framework with RL for Post‑Surgical Clinical Decision Support** – *Under review* (2026)  
 - **Secure Federated Deep Learning for Android Malware Detection** – *IEEE QPAIN 2026* (conference)  
 - **Statistical Reliability of ML Intrusion Detection for High‑Traffic Networks** – *Control and Decision*, vol. 40, no. 10, 2025  
+- **Quantitative Study of Neural Network‑Based Anomaly Detection** – *Control and Decision*, 2025  
 
 ---
 
@@ -71,7 +88,7 @@ Currently pursuing my MS in CS at UMN Duluth to deepen theoretical foundations a
 
 ## 📈 GitHub Analytics
 
-<!-- Streak widget (like Rabbi Hasan) -->
+<!-- Streak widget -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mostakphoenixsoftbd&theme=dark)
 
 <!-- Dynamic stats cards -->
