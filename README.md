@@ -57,18 +57,35 @@ Currently pursuing my MS in CS at UMN Duluth to deepen theoretical foundations a
 
 ## 📈 GitHub Analytics
 
-<!-- Streak widget -->
+<!-- Streak widget (like Rabbi Hasan) -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mostakphoenixsoftbd&theme=dark)
 
-<!-- Stats cards -->
+<!-- Dynamic stats cards -->
 ![Mostak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostakphoenixsoftbd&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakphoenixsoftbd&layout=compact&theme=radical)
 
 ---
 
+## 💻 Love to Code
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
-- **Academic email:** `ahme1320@d.umn.edu or mostak@du.ac.bd  
+- **Academic email:** `mostak@duluth.umn.edu` (preferred)  
 - **LinkedIn:** [linkedin.com/in/mostak-ahmed](https://linkedin.com/in/mostak-ahmed)  
 - **GitHub:** [github.com/mostakphoenixsoftbd](https://github.com/mostakphoenixsoftbd)  
 
